@@ -1,0 +1,1 @@
+https://raw.githubusercontent.com/NarpPorts/supertuxkart/main/pak.conf
