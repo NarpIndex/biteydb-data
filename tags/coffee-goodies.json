@@ -1,4 +1,5 @@
 {
-  "coffee": "https://github.com/NarpIndex/coffee",
-  "caffeine": "https://github.com/NarpIndex/caffeine"
+  "coffee": "https://github.com/NarpIndex/coffee.git",
+  "caffeine": "https://github.com/NarpIndex/caffeine.git"
 }
+
